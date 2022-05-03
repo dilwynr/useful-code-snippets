@@ -1,5 +1,7 @@
 """
-Generate a random strings with variable lengthss
+Generate a random strings with variable lengths.
+
+Do not sure if you require true randomness for cryptographic or secure use
 """
 
 import random
