@@ -1,7 +1,7 @@
 """
 Compare two instances of the same dataclasses, or regular classes in most cases, to identify any differences betwen attributes.
 
-Usefull to compare what in an endpint has changes between two calls e.g.
+Useful to compare what in an endpint has changes between two calls e.g.
 
 if fresh_endpoint != stored_endpoint:
     find_differences(fresh_endpoint, stored_endpoint)
